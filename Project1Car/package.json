@@ -1,0 +1,10 @@
+{
+  "name": "Project1Car",
+  "version": "0.0.0",
+  "description": "Project1Car",
+  "main": "server.js",
+  "author": {
+    "name": "dustin-forsyth",
+    "email": ""
+  }
+}
